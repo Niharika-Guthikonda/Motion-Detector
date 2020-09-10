@@ -1,1 +1,1 @@
-# Motion-Dectector
+# Motion-Detector
